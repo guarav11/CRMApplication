@@ -1,0 +1,278 @@
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:37,975 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:45,715 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:47,289 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:38:54,655 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,652 - root - INFO - ***** Verifying newest filter *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:03,706 - root - INFO - ***** newest filter passed *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,363 - root - INFO - ***** Verifying az filter *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:12,474 - root - INFO - ***** az filter passed *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,124 - root - INFO - ***** Verifying za filter *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:21,230 - root - INFO - ***** za filter passed *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:22,730 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:31,205 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:32,789 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:40,867 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:42,318 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:50,402 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:51,885 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:39:59,998 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:01,495 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:09,651 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:27,044 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:39,448 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:40,993 - root - INFO - ***** Verifying Login *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 17:40:58,729 - root - INFO - ***** Login Passed *****
+2022-11-01 21:41:36,839 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 21:41:45,698 - root - INFO - ***** test_searchByName passed *****
+2022-11-01 21:42:03,418 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 21:42:12,447 - root - INFO - ***** test_searchByContext passed *****
+2022-11-01 21:42:29,887 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-01 21:42:39,108 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-02 13:15:53,013 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 13:18:31,809 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 13:20:47,300 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 13:21:26,469 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 14:56:11,522 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:02:39,586 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:12:59,692 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:14:11,571 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:15:48,724 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:47:29,241 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:50:19,800 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 15:51:40,271 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:13:26,775 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:15:54,304 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:16:25,492 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:16:35,089 - root - ERROR - ***** test_create_agent failed *****
+2022-11-02 17:19:08,001 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:19:56,083 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:20:01,698 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 17:26:23,513 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:26:30,604 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 17:27:20,282 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:27:26,443 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 17:27:43,752 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 17:32:47,935 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:32:53,338 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 17:33:10,676 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 17:34:03,756 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 17:34:09,256 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 17:34:26,536 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 20:37:54,659 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 20:38:10,101 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 20:38:27,523 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 20:47:39,081 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 20:47:50,338 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 20:47:51,662 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:31:47,681 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:32:02,471 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:32:26,830 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:32:33,623 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 21:32:50,979 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:36:40,705 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:36:48,200 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 21:37:05,561 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:39:39,019 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:39:57,500 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:45:43,923 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:46:03,758 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:47:56,317 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:48:03,053 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 21:48:20,384 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:48:58,503 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 21:51:17,843 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:51:25,465 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 21:51:42,908 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:52:16,516 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 21:57:50,022 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 21:57:56,953 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 21:58:14,349 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 21:58:47,562 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:01:30,288 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:01:36,531 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:01:37,805 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:02:09,721 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:04:15,589 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:04:22,964 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:04:24,289 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:04:41,085 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:06:35,490 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:06:42,392 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:06:43,661 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:07:15,562 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:08:58,805 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:09:06,989 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:09:08,243 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:09:25,030 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:12:51,676 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:12:58,201 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:13:15,627 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:13:47,773 - root - ERROR - ***** test_add_agent failed *****
+2022-11-02 22:15:00,563 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:15:07,203 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:15:24,593 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:16:18,865 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:16:25,187 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:16:26,512 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:16:47,392 - root - INFO - ***** test_add_agent passed *****
+2022-11-02 22:24:15,094 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:24:22,688 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:24:40,096 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:27:10,780 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:27:17,699 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:27:18,963 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:27:43,978 - root - ERROR - ***** test_delete_agent failed *****
+2022-11-02 22:29:25,436 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:29:32,337 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:29:33,717 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:29:42,713 - root - INFO - ***** test_delete_agent passed *****
+2022-11-02 22:32:36,110 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:32:43,148 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:43:21,493 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:43:29,995 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:43:47,416 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-02 22:43:56,989 - root - INFO - ***** test_ban_agent passed *****
+2022-11-02 22:44:14,410 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-02 22:44:34,415 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:44:54,040 - root - INFO - ***** test_add_agent passed *****
+2022-11-02 22:44:55,531 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:45:07,736 - root - INFO - ***** test_delete_agent passed *****
+2022-11-02 22:48:56,432 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:49:03,392 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:49:20,781 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-02 22:49:48,860 - root - ERROR - ***** test_ban_agent failed *****
+2022-11-02 22:49:50,202 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-02 22:50:19,065 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:50:37,554 - root - INFO - ***** test_add_agent passed *****
+2022-11-02 22:50:55,017 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:51:04,216 - root - INFO - ***** test_delete_agent passed *****
+2022-11-02 22:51:34,730 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-02 22:51:41,611 - root - INFO - ***** test_create_agent passed *****
+2022-11-02 22:51:59,026 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-02 22:52:09,206 - root - INFO - ***** test_ban_agent passed *****
+2022-11-02 22:52:26,728 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-02 22:52:35,272 - root - INFO - ***** test_unban_agent passed *****
+2022-11-02 22:52:36,611 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-02 22:52:53,897 - root - INFO - ***** test_add_agent passed *****
+2022-11-02 22:53:11,336 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-02 22:53:20,816 - root - INFO - ***** test_delete_agent passed *****
