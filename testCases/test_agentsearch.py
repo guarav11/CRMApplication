@@ -27,10 +27,10 @@ class Test_006_AgentSearch:
         ass = AgentSearch(self.driver)
         time.sleep(3)
 
-        ass.setName("Gaurav Singh")
+        ass.setName("Lead Agent")
         time.sleep(2)
 
-        status = ass.searchByName("Gaurav Singh")
+        status = ass.searchByName("Lead Agent")
         if status == True:
             assert True
             self.logger.info("***** test_Agent_searchByName passed *****")
@@ -55,10 +55,10 @@ class Test_006_AgentSearch:
         ass = AgentSearch(self.driver)
         time.sleep(3)
 
-        ass.setEmailId("gsingh@voiceoc.com")
+        ass.setEmailId("lead@gmail.com")
         time.sleep(2)
 
-        status = ass.searchByEmailid("gsingh@voiceoc.com")
+        status = ass.searchByEmailid("lead@gmail.com")
         if status == True:
             assert True
             self.logger.info("***** test_Agent_searchByEmailID passed *****")

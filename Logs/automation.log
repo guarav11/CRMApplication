@@ -336,3 +336,371 @@
 2022-11-03 13:05:04,626 - root - INFO - ***** test_searchBytime passed *****
 2022-11-03 13:05:21,975 - root - INFO - ***** Test_008_LeadDashboard *****
 2022-11-03 13:05:29,775 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:50,854 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:58,080 - root - INFO - ***** test_Agent_searchByName passed *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:01:59,669 - root - INFO - ***** Test_006_AgentSearch *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:06,766 - root - INFO - ***** test_Agent_searchByEmailID passed *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:14,979 - root - INFO - ***** Verifying newest filter *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:15,033 - root - INFO - ***** newest filter passed *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,188 - root - INFO - ***** Verifying az filter *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:39,290 - root - INFO - ***** az filter passed *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,403 - root - INFO - ***** Verifying za filter *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:47,508 - root - INFO - ***** za filter passed *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:48,928 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:56,689 - root - INFO - ***** test_Allchatrightpagenation passed *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:02:57,996 - root - INFO - ***** Test_004_AllChatPagenation *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:05,787 - root - INFO - ***** test_Allchatleftpagenation passed *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:23,254 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:30,946 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:48,413 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:03:56,162 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:13,534 - root - INFO - ***** Test_003_AllChatSearch *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:21,161 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:22,516 - root - INFO - ***** Test_007_AddNewAgent *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:27,957 - root - INFO - ***** test_create_agent passed *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:45,326 - root - INFO - ***** Test_007_BanAgent *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:52,303 - root - INFO - ***** test_ban_agent passed *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:04:53,627 - root - INFO - ***** Test_007_UnbanAgent *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:00,445 - root - INFO - ***** test_unban_agent passed *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:01,759 - root - INFO - ***** Test_007_EditAgent *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:17,198 - root - INFO - ***** test_add_agent passed *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:18,598 - root - INFO - ***** Test_007_DeleteAgent *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:26,613 - root - INFO - ***** test_delete_agent passed *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:44,068 - root - INFO - ***** Test_005_AllChatIButton *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:05:56,516 - root - INFO - ***** test_AllchatIbutton passed *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:13,884 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:21,697 - root - INFO - ***** test_searchByName passed *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:39,146 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:47,039 - root - INFO - ***** test_searchByContext passed *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:48,386 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:06:56,175 - root - INFO - ***** test_searchByMobileNo passed *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:13,591 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:21,351 - root - INFO - ***** test_searchByDate passed *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:38,738 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:46,539 - root - INFO - ***** test_searchBytime passed *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:47,887 - root - INFO - ***** Test_008_LeadDashboard *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:07:55,632 - root - INFO - ***** test_searchBypurose passed *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:13,001 - root - INFO - ***** Verifying Login *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
+2022-11-03 16:08:30,597 - root - INFO - ***** Login Passed *****
