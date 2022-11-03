@@ -1,1 +1,1 @@
-pytest -v --html=Reports\report.html testCases/ --browser chrome
+pytest -v testCases/ --browser chrome
