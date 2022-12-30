@@ -2,13 +2,21 @@ from selenium import webdriver
 import pytest
 from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.service import Service
-
-
+import subprocess
+import time
 @pytest.fixture()
 def setup(browser):
     if browser=='chrome':
-        serv_obj = Service("C:\\Selenium Browser Drivers\\chromedriver.exe")
-        driver = webdriver.Chrome(service=serv_obj)
+        # serv_obj = Service("C:\\Selenium Browser Drivers\\chromedriver.exe")
+        # driver = webdriver.Chrome(service=serv_obj)
+        options = webdriver.ChromeOptions()
+
+        driver = webdriver.Remote(
+            command_executor='http://localhost:4444/wd/hub',
+            options=options
+        )
+        time.sleep(6)
+
     elif browser=='firefox':
         serv_obj = Service("C:\\Selenium Browser Drivers\\firefoxdriver.exe")
         driver = webdriver.Firefox(service=serv_obj)
@@ -33,9 +41,10 @@ def browser(request):  # This will return the Browser value to setup method
 #     assert 'metadata' in metadata['Plugins']
 
 
+# It is hook for adding Environment info to HTML Report
 def pytest_configure(config):
   if hasattr(config, '_metadata'):
-      config._metadata['Project Name'] = 'Voiceoc'
+      config._metadata['Project Name'] = 'Voiceoc'      # these are additional info we want to add in out html reports
       config._metadata['Module Name'] = 'Dashboard'
       config._metadata['Tester'] = 'Gaurav'
 
